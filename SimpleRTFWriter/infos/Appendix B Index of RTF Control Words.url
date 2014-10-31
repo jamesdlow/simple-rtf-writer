@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnrtfspec/html/RTFSpec_62.asp
+[DOC#7#9#10#8#9]
+BASEURL=http://msdn.microsoft.com/library/shared/searchtab/search.asp?stcfg=/library/searchtabconfig.xml&dtcfg=/library/deeptreeconfig.xml&url=/library/en-us/dnrtfspec/html/RTFSpec_62.asp?frame=true
+ORIGURL=/library/shared/searchtab/search.asp?stcfg=/library/searchtabconfig.xml&dtcfg=/library/deeptreeconfig.xml&url=/library/en-us/dnrtfspec/html/RTFSpec_62.asp?frame=true
+[InternetShortcut]
+URL=http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnrtfspec/html/RTFSpec_62.asp
+Modified=300E27782B4FC4011C

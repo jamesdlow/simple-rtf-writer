@@ -1,0 +1,42 @@
+{\*\bkmkstart FELD1}}
+
+{\field\fldedit
+{\*\fldinst 
+{\f1\highlight7\insrsid10893214  FORMTEXT }
+{\f1\highlight7\insrsid10117925 
+{\*\datafield 
+00000000000000000546454c443100236963682062696e20646572205465787420766f6e2066656c64312e204afc68fc2e2e200000000000000000000000}
+{\*\formfield{\fftype0\fftypetxt0{\*\ffname FELD1}
+{\*\ffdeftext ich bin der Text von feld1. J\'fch\'fc.. }}}}}
+{\fldrslt 
+{\f1\lang1024\langfe1024\highlight7\noproof\insrsid10117925 Neuer Text}}}
+{\f1\insrsid10893214 
+µ
+{\*\bkmkend FELD1}
+
+
+
+#### WXP
+{\*\bkmkstart SBname} FORMTEXT }{\insrsid1904844 {\*\datafield 00000000000000000653426e616d6500000000000000000000000000}
+{\*\formfield{\fftype0\fftypetxt0{\*\ffname SBname}}}}}{\fldrslt {\lang1024\langfe1024\noproof\insrsid16207266 \u8194\'20\u8194\'20\u8194\'20\u8194\'20\u8194\'20}}}{\insrsid1904844 {\*\bkmkend SBname}
+####
+{\*\bkmkstart SBorge} FORMTEXT }{
+\insrsid1904844 {\*\datafield 00000e00000000000653426f72676500000000000000000000000000}{\*\formfield{\fftype0\fftypetxt0\ffmaxlen14{\*\ffname SBorge}}}}}{\fldrslt {\lang1024\langfe1024\noproof\insrsid16207266 \u8194\'20\u8194\'20\u8194\'20\u8194\'20\u8194
+\'20}}}{\insrsid1904844 {\*\bkmkend SBorge}
+####
+{\*\bkmkstart SBtel} FORMTEXT }{\insrsid1904844 {\*\datafield 
+000000000000000005534274656c00000000000000000000000000}{\*\formfield{\fftype0\fftypetxt0{\*\ffname SBtel}}}}}{\fldrslt {\lang1024\langfe1024\noproof\insrsid16207266 \u8194\'20\u8194\'20\u8194\'20\u8194\'20\u8194\'20}}}{\insrsid1904844 {\*\bkmkend SBtel}
+####
+{\*\bkmkstart EDatum}{\field{\*\fldinst {\fs18\insrsid1904844  FORMTEXT }{\fs18\insrsid1904844 {\*\datafield 
+00100a00000000000645446174756d0000000a64642e4d4d2e79797979000000000000000000}{\*\formfield{\fftype0\fftypetxt2\ffmaxlen10{\*\ffname EDatum}{\*\ffformat dd.MM.yyyy}}}}}{\fldrslt {\fs18\lang1024\langfe1024\noproof\insrsid1904844 \u8194\'20\u8194\'20\u8194
+\'20\u8194\'20\u8194\'20}}}{\f101\fs18\insrsid1904844 {\*\bkmkend Dropdown2}{\*\bkmkend EDatum}
+###
+{\*\bkmkstart testtext}{\*\bkmkend testtext}
+
+########
+#### W97
+{\*\bkmkstart Text11}{\field{\*\fldinst { FORMTEXT }{{\*\datafield 00000000140000000654657874313100000000000000000000000000}{\*\formfield{\fftype0\fftypetxt0\ffhps20{\*\ffname Text11}}}}}{\fldrslt {
+\lang1024 \u8194\'20\u8194\'20\u8194\'20\u8194\'20\u8194\'20}}}{{\*\bkmkend Text11}
+#####
+{\*\bkmkstart EDatum}{\field{\*\fldinst {\fs18  FORMTEXT }{\fs18 {\*\datafield 00100a00000000000645446174756d0000000a64642e4d4d2e79797979000000000000000000}
+{\*\formfield{\fftype0\fftypetxt2\ffmaxlen10{\*\ffname EDatum}{\*\ffformat dd.MM.yyyy}}}}}{\fldrslt {\fs18\lang1024 \u8194\'20\u8194\'20\u8194\'20\u8194\'20\u8194\'20}}}{\f15\fs18 {\*\bkmkend Dropdown2}{\*\bkmkend EDatum}

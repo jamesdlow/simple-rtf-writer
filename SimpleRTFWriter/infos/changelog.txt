@@ -1,0 +1,40 @@
+
+			Simple RTF Writer (SRW) Version 0.6
+				    Change Log
+
+
+** Änderungen in der Version 0.6:
+
+   - Package com.itseasy.rtf.data wurde nach com.itseasy.rtf.text umbenannt
+   - Klasse "BookmarkIsNotCheckbox" nach "BookmarkIsNotCheckboxException" umbenannt
+   - Klasse "BookmarkIsNotCheckboxException" und "BookmarkNotFoundException" ins Package com.itseasy.rtf.exception verschoben
+   - Klasse "RtfUtil" ins Package com.itseasy.rtf verschoben
+   - Klasse "PaperSize" wurde in "PageSize" umgebannt
+   - Klasse "PaperDefinition" wurde in "PageDefinition" umbenannt
+   - Neues Servlet-Beispiel erstellt
+   - Beispiele neu geordnet (neue Ordnerstruktur)
+   - [Bug] in "List" ausgebaut. Neue Methode "setSpace(int)", um den Abstand zwischen den Aufzählungszeilen zu definieren.
+   - [Bug] in "List" (Aufzählungsliste) verursachte in RTFTemplate eine zusätzliche Leerzeile
+   - RTFDocument: Setzen des DefaultFonts "setDefaultFont(Font)" nun möglich
+   - RTFDocument: Setzen des Anzeigemodus (\viewkind) und Zoomfaktor (\viewscale) ist nun möglich.
+   - Neue Klasse "NewPage", um einen Seitenwechsel in ein Dokument einfügen zu können.
+   - In der Klasse "Font" wurde die Methode "setFontnumber()" entfernt
+   - RTFTemplate: Methode "getBookmarkNames()" eingefügt, um alle enthaltenen Textmarken aufzulisten
+   - RTFTemplate: In Textmarken sollen auch mehrere Absätze (Paragraphen) eingefügt werden können. Dies ist nun
+     über die Klasse MultiParagraphs und der Methode setBookmarkContent() möglich. 
+   - JavaDoc erstellt (siehe /docs)
+   - Programmierbeispiel erweitert
+
+
+
+** Geplante Roadmap
+
+   Version 0.7: (geplant November 2004)
+   - Einfache Tabellen (mit Headerzeilenangabe)
+   - Setzen eines grauen Hintergrunds in Tabellen und Paragraphen
+
+
+   Version 0.8: (geplant Januar 2005)
+   - Einfügen von Grafiken 
+   - Listboxen in RTFTemplate unterstützen
+

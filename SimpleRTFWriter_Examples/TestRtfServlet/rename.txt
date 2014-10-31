@@ -1,0 +1,10 @@
+Simple RTF Writer Test Servlet
+------------------------------
+
+Um den Test ausführen zu können müssen Sie lediglich das gesamte Verzeichnis "TestRtfServlet" auf ihren 
+Java Application Server deployen. Für Apache Tomcat bedeutet dies, dass Sie dieses Verzeichnis unter das 
+Tomcat-Verzeichnis "webapps" zu kopieren.
+
+Wichtig ist, dass sich die Bibliothek "srw.jar" im Java Classpath des Application Servers befindet. Eine Möglichkeit ist, diese Bibliothek in das (neu anzulegende) Verzeichnis "<Tomcat>\webapps\TestRtfServlet\WEB-INF\lib" zu kopieren.
+
+Aufruf im Browser über http://localhost:8080/TestRtfServlet 

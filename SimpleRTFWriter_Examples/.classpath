@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry output="TestNewRtfDocFull" kind="src" path="TestNewRtfDocFull"/>
+	<classpathentry output="TestRtfServlet/WEB-INF/classes" kind="src" path="TestRtfServlet/src"/>
+	<classpathentry output="TestRtfTemplate" kind="src" path="TestRtfTemplate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="/SimpleRTFWriter"/>
+	<classpathentry kind="lib" path="C:/Develop/tomcat/common/lib/servlet-api.jar"/>
+	<classpathentry output="TestComplexRtfTemplate" kind="src" path="TestComplexRtfTemplate"/>
+	<classpathentry output="TestRtfTemplateRahmen" kind="src" path="TestRtfTemplateRahmen"/>
+	<classpathentry output="TestRtfSerienbrief" kind="src" path="TestRtfSerienbrief"/>
+	<classpathentry output="TestRtfTemplateCache" kind="src" path="TestRtfTemplateCache"/>
+	<classpathentry output="TestSimpleRtf" kind="src" path="TestSimpleRtf"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
